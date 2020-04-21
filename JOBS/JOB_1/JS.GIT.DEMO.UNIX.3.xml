@@ -15,12 +15,12 @@
          <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
          <max_parallel_action>1</max_parallel_action>
          <mrt_time>000000</mrt_time>
-         <name>JS.GIT.DEMO.UNIX.2</name>
+         <name>JS.GIT.DEMO.UNIX.3</name>
          <type>JOBS</type>
          <inherit_output_filter>N</inherit_output_filter>
          <queue>CLIENT_QUEUE</queue>
          <description>Simple UNIX demo job</description>
-         <versioning_id>-98510971</versioning_id>
+         <versioning_id>-69881820</versioning_id>
       </row>
    </general_attributes>
    <scripts>
